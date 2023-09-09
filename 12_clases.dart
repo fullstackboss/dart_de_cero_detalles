@@ -4,6 +4,8 @@ void main() {
   persona.edad = 45;
   persona._bio = "Soy un sayaying";
   print(persona._bio);
+
+  persona.info;
 }
 
 class Persona {
